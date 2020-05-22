@@ -6,11 +6,45 @@
 
 #IncludeRegexTransform: 
 
+/Users/amasics/Dropbox/Documents/Learning/CPP_Nano/CppND-Memory-Management-Chatbot/src/chatbot.cpp
+iostream
+-
+random
+-
+algorithm
+-
+ctime
+-
+chatlogic.h
+/Users/amasics/Dropbox/Documents/Learning/CPP_Nano/CppND-Memory-Management-Chatbot/src/chatlogic.h
+graphnode.h
+/Users/amasics/Dropbox/Documents/Learning/CPP_Nano/CppND-Memory-Management-Chatbot/src/graphnode.h
+graphedge.h
+/Users/amasics/Dropbox/Documents/Learning/CPP_Nano/CppND-Memory-Management-Chatbot/src/graphedge.h
+chatbot.h
+/Users/amasics/Dropbox/Documents/Learning/CPP_Nano/CppND-Memory-Management-Chatbot/src/chatbot.h
+
 /Users/amasics/Dropbox/Documents/Learning/CPP_Nano/CppND-Memory-Management-Chatbot/src/chatbot.h
 wx/bitmap.h
 -
 string
 -
+
+/Users/amasics/Dropbox/Documents/Learning/CPP_Nano/CppND-Memory-Management-Chatbot/src/chatgui.cpp
+wx/filename.h
+-
+wx/colour.h
+-
+wx/image.h
+-
+string
+-
+chatbot.h
+/Users/amasics/Dropbox/Documents/Learning/CPP_Nano/CppND-Memory-Management-Chatbot/src/chatbot.h
+chatlogic.h
+/Users/amasics/Dropbox/Documents/Learning/CPP_Nano/CppND-Memory-Management-Chatbot/src/chatlogic.h
+chatgui.h
+/Users/amasics/Dropbox/Documents/Learning/CPP_Nano/CppND-Memory-Management-Chatbot/src/chatgui.h
 
 /Users/amasics/Dropbox/Documents/Learning/CPP_Nano/CppND-Memory-Management-Chatbot/src/chatgui.h
 wx/wx.h
@@ -33,6 +67,8 @@ tuple
 -
 algorithm
 -
+memory
+-
 graphedge.h
 /Users/amasics/Dropbox/Documents/Learning/CPP_Nano/CppND-Memory-Management-Chatbot/src/graphedge.h
 graphnode.h
@@ -52,16 +88,32 @@ memory
 chatgui.h
 /Users/amasics/Dropbox/Documents/Learning/CPP_Nano/CppND-Memory-Management-Chatbot/src/chatgui.h
 
+/Users/amasics/Dropbox/Documents/Learning/CPP_Nano/CppND-Memory-Management-Chatbot/src/graphedge.cpp
+graphnode.h
+/Users/amasics/Dropbox/Documents/Learning/CPP_Nano/CppND-Memory-Management-Chatbot/src/graphnode.h
+graphedge.h
+/Users/amasics/Dropbox/Documents/Learning/CPP_Nano/CppND-Memory-Management-Chatbot/src/graphedge.h
+
 /Users/amasics/Dropbox/Documents/Learning/CPP_Nano/CppND-Memory-Management-Chatbot/src/graphedge.h
 vector
 -
 string
 -
 
+/Users/amasics/Dropbox/Documents/Learning/CPP_Nano/CppND-Memory-Management-Chatbot/src/graphnode.cpp
+memory
+-
+graphedge.h
+/Users/amasics/Dropbox/Documents/Learning/CPP_Nano/CppND-Memory-Management-Chatbot/src/graphedge.h
+graphnode.h
+/Users/amasics/Dropbox/Documents/Learning/CPP_Nano/CppND-Memory-Management-Chatbot/src/graphnode.h
+
 /Users/amasics/Dropbox/Documents/Learning/CPP_Nano/CppND-Memory-Management-Chatbot/src/graphnode.h
 vector
 -
 string
+-
+memory
 -
 chatbot.h
 /Users/amasics/Dropbox/Documents/Learning/CPP_Nano/CppND-Memory-Management-Chatbot/src/chatbot.h
